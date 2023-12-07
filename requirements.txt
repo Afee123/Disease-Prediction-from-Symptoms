@@ -6,3 +6,5 @@ numpy>=1.21.2
 pandas
 matplotlib
 gradio
+package-name==1.2.3
+
